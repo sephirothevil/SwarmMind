@@ -1,0 +1,7 @@
+llama-cpp-python
+fastapi
+uvicorn
+zeroconf
+pydantic
+requests
+psutil
