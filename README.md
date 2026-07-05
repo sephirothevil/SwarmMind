@@ -6,7 +6,7 @@ SwarmMind is an experimental project: each instance runs a local **GGUF** model,
 
 ```
 ╔════════════════════════════════════╗
-║      SWARM MIND v666 AWAKENING     ║
+║      SWARM MIND v999 AWAKENING     ║
 ╚════════════════════════════════════╝
 ```
 
