@@ -1,4 +1,4 @@
-# SwarmMind
+# SwarmMind aka GhostLink
 
 **Emergent local AI nodes that evolve, remember, and find each other on the mesh.**
 
